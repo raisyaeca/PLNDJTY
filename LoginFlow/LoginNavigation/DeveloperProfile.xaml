@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.DeveloperProfile"
+             Title="Developer Profile"
+             xmlns:controls="clr-namespace:LoginNavigation;assembly=LoginNavigation">
+	<ContentPage.Content>
+            <!--  main page grid  -->
+                <Grid RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="40" />
+                    </Grid.RowDefinitions>
+
+                    <!--  row background colors  -->
+                    <BoxView Grid.Row="0" Color="#ffea51" />
+                    <BoxView Grid.Row="1" Color="#F1F2F2" />
+                    <BoxView Grid.Row="2" Color="#ffea51" />
+                  
+
+                    <!--  title  -->
+                    <Label x:Name="Appusername" FontSize="Large" HorizontalOptions="Center" Text="OUR TEAM"
+               TextColor="Black" VerticalOptions="Center" />
+
+                    <!--  inner grid for button layouts  -->
+                    <Grid Grid.Row="1" ColumnSpacing="30" HorizontalOptions="Center"
+              RowSpacing="30" VerticalOptions="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <controls:SwitchboardButton Grid.Row="0" Grid.Column="0" Icon="naja.png"
+                                        Label="NAJACOOL">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="NajaButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="0" Grid.Column="1" Icon="vina.png"
+                                        Label="ALVINA">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="VinaButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="1" Grid.Column="0" Icon="sendy.png"
+                                        Label="SENDY">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="SendyButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="1" Grid.Column="1" Icon="eca.png"
+                                        Label="RAISYA">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="EcaButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                    </Grid>
+                </Grid>
+
+            </ContentPage.Content>
+       </ContentPage>
+	

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            x:Class="LoginNavigation.MainPage" 
+            Title="Main Page" 
+            BackgroundImage="plnfix.png"
+            xmlns:controls="clr-namespace:LoginNavigation;assembly=LoginNavigation">
+    
+     <MasterDetailPage.Master>
+        <ContentPage Padding="10" BackgroundColor="Gray" Title="Master">
+            <ContentPage.Content>
+                <StackLayout Margin="5,30,5,5">
+                    <Label Text="Pilihlah"></Label>
+                    <Button Text="Home" BackgroundColor="#c6bd11" Clicked="Handle_Clicked"></Button>
+                    <Button Text="Rekap" BackgroundColor="#c6bd11" Clicked="Handle_Clicked3"></Button>
+                    <Button Text="Profile Developer" BackgroundColor="#c6bd11" Clicked="Handle_Clicked4"></Button>
+                    <Button Text="Log Out" BackgroundColor="#c6bd11" Clicked="Handle_Clicked2"></Button>
+                    
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+     </MasterDetailPage.Master>
+        
+
+        <MasterDetailPage.Detail>
+        <ContentPage>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Logout" Clicked="OnLogoutButtonClicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+                <!--  main page grid  -->
+                <Grid RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="20" />
+                    </Grid.RowDefinitions>
+
+                    <!--  row background colors  -->
+                    <BoxView Grid.Row="0" Color="#ffea51" />
+                    <BoxView Grid.Row="1" Color="#F1F2F2" />
+                    <BoxView Grid.Row="2" Color="#ffea51" />
+                  
+
+                    <!--  title  -->
+                    <Label x:Name="Appusername" FontSize="Large" HorizontalOptions="Center" Text="Welcome"
+               TextColor="Black" VerticalOptions="Center" />
+
+                    <!--  inner grid for button layouts  -->
+                    <Grid Grid.Row="1" ColumnSpacing="10" HorizontalOptions="Center"
+              RowSpacing="10" VerticalOptions="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <controls:SwitchboardButton Grid.Row="0" Grid.Column="0" Icon="pbaru.png"
+                                        Label="PASANG BARU : 9">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="CameraButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="0" Grid.Column="1" Icon="tdaya.png"
+                                        Label="TAMBAH DAYA : 5">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TagButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="1" Grid.Column="0" Icon="profilepln.png"
+                                        Label="Profile PLN">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="ProfilePLNButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="1" Grid.Column="1" Icon="pedomanperilaku.png"
+                                        Label="Pedoman Perilaku">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="PedomanPerilakuButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="2" Grid.Column="0" Icon="whistleblower.png"
+                                        Label="Whistleblower's System">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="WhistleblowerButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                        <controls:SwitchboardButton Grid.Row="2" Grid.Column="1" Icon="gcg.png"
+                                        Label="GCG">
+                            <controls:SwitchboardButton.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="GCGButtonTapped" />
+                            </controls:SwitchboardButton.GestureRecognizers>
+                        </controls:SwitchboardButton>
+
+                    </Grid>
+                </Grid>
+
+        </ContentPage.Content>
+       </ContentPage>
+        </MasterDetailPage.Detail>
+
+   </MasterDetailPage>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.vina"
+             Title="Vina"
+             BackgroundImage="plnfix.png">
+    <ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#fdc4ff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Alvina Rahmatiana Sari Lahir di Semarang, 12 Juli 1996, anak kedua dari 2 bersaudara. Mendapat pendidikan pertama di TK Kartika IV/8 dan di lanjutkan di SDN Banyumanik 02 dan lulus pada tahun 2008. Lalu melanjutkan pendidikan di SMP Negeri 21 Semarang hingga tahun 2011. Kemudian melanjutkan ke SMA N 4 Semarang dan lulus pada tahun 2014. Kemudian melanjutkan studi di perguruan tinggi swasta di Universitas Islam Sultan Agung Semarang dan mengambil jurusan Manajemen hingga tahun 2015. Lalu melanjutkan studi di perguruan tinggi Universitas Diponegoro jurusan Sistem Komputer." HorizontalTextAlignment="Center"/>
+             </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+

@@ -1,0 +1,232 @@
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/LoginNavigationiOS.exe
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/LoginNavigationiOS.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/DevExpress.Mobile.Core.iOS.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/DevExpress.Mobile.Grid.iOS.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/DevExpress.Mobile.Grid.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/DevExpress.Mobile.Core.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Default.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Default@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Default-568h@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Default-Portrait.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Default-Portrait@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-60@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-60@3x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-76.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-76@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small@3x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small-40.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small-40@2x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Icon-Small-40@3x.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/plnfix.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Camera.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/icon.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Shopping.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Tag.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Twitter.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/underc.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/eca.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/naja.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/sendy.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/vina.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Page1.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Page2.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/hello.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/LoginNavigation.iOS.csprojResolveAssemblyReference.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/LoginNavigation.iOS.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/LoginNavigationiOS.exe
+/Users/raisya/Desktop/updatetampilan/LoginFlow/iOS/obj/iPhoneSimulator/Debug/LoginNavigationiOS.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.exe.config
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.exe
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Core.iOS.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Grid.iOS.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Grid.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Core.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.dll.config
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigation.iOS.csprojResolveAssemblyReference.cache
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigation.iOS.csproj.CoreCompileInputs.cache
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigationiOS.exe
+D:\KP\KP\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigationiOS.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.exe.config
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.exe
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigationiOS.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Core.iOS.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Grid.iOS.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Grid.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\DevExpress.Mobile.Core.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\LoginNavigation.dll.config
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\PushNotification.Plugin.Abstractions.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigation.iOS.csprojResolveAssemblyReference.cache
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigation.iOS.csproj.CoreCompileInputs.cache
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigationiOS.exe
+D:\KPFIX\back up updatetampilan\LoginFlow\iOS\obj\iPhoneSimulator\Debug\LoginNavigationiOS.pdb

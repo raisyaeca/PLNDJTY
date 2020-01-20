@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.eca"
+             Title="eca"
+             BackgroundImage="plnfix.png">
+	<ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#fdc4ff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Raisya Rahmah Noor Nasution, lahir di Abepura, Irian Jaya, 27 Desember 1997, anak ketiga dari 3 bersaudara. Mendapat pendidikan pertama di TK Mahardika Palembang dan melanjutkan sekolah dasarnya di SDN 38 Lombok Mataram pada umur 5 tahun dan SD Swasta Al-Azhar Medan pada umur 9 tahun. Lalu melanjutkan pendidikan di SMP Swasta Al-Azhar Medan. Setelah itu ia melanjutkan sekolah menengah atasnya di SMA Negeri 1 Medan. Dan kemudian dia melanjutkan studi di perguruan tinggi tepatnya di Universitas Diponegoro jurusan S1 Sistem Komputer." HorizontalTextAlignment="Center"/>
+             </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+

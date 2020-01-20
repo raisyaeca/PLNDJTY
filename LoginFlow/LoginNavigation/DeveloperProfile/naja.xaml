@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.naja"
+             Title="Naja"
+             BackgroundImage="plnfix.png">
+    <ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#96b5ff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Najakhul Fahmi (21120115120035), anak ke dua dari tiga bersaudara,  lahir  di Pekalongan, Provinsi Jawa Tengah pada tanggal  16 April 1997. Telah menempuh pendidikan di MSI 01 Kauman 2003 dan tamat pada tahun  2009. Kemudian , Ia melanjutkan sekolah di SMP Salafiyah Pekalongan pada tahun 2009 dan lulus pada tahun 2012. Selanjutnya, meneruskan pendidikannya di SMA Negeri 3 Pekalongan pada tahun 2012 dan Lulus pada tahun 2015. Dan sekarang  sedang menempuh pendidikan Strata Satu  Program Studi Sistem Komputer Fakultas Teknik, Universitas Diponegoro, Semarang." HorizontalTextAlignment="Center"/>
+             </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+

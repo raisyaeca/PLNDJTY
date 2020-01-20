@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.Rekap" 
+             xmlns:dxGrid="clr-namespace:DevExpress.Mobile.DataGrid;assembly=DevExpress.Mobile.Grid.v17.1">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" />
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <SearchBar Grid.Row="0" Grid.Column="0" x:Name="searchBar"
+                       Placeholder="Masukkan data yang akan dicari"  
+                       TextChanged="OnSearchTextChanged"/>
+            <dxGrid:GridControl Grid.Row="1" Grid.Column="0" x:Name="grid" ItemsSource="{Binding ReposRekap}" RowHeight="100" CustomizeCell="OnCustomizeCell" NewItemRowVisibility = "False"
+                                    PopupMenuCustomization="OnPopupMenuCustomization" CalculateCustomSummary="OnCalculateCustomSummary" >
+                <dxGrid:GridControl.Columns>
+
+                    <dxGrid:TextColumn FieldName="KodeUnit" Caption="Kode" Width="80" />
+                    <dxGrid:TextColumn FieldName="NoAgenda" Caption="Agenda" Width="80"/>
+                    <dxGrid:TemplateColumn FieldName="Name" Caption="Nama" Width="170" IsReadOnly="true" AllowGroup="False" AllowSort="False">
+                        <dxGrid:TemplateColumn.DisplayTemplate>
+                            <DataTemplate>
+                                <Grid BindingContext="{Binding Source}" Padding="0,15,0,15">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Label Text="{Binding Name}" Font="Bold, 14" Grid.Row="0" />
+                                    <Label Text="{Binding Address, StringFormat = 'Alamat: {0}'}" Font="Small" Grid.Row="1"/>
+                                    <!--<Label Text="{Binding HireDate, StringFormat = 'Hire Date: {0:d}'}" Font="Small" Grid.Row="2" />-->
+                                </Grid>
+                            </DataTemplate>
+                        </dxGrid:TemplateColumn.DisplayTemplate>
+                    </dxGrid:TemplateColumn>
+                    <dxGrid:TextColumn FieldName="JP" Caption="Permohonan" Width="130" />
+
+                    <!--<dxGrid:NumberColumn FieldName="Phone" Caption="" ContentAlignment="Center"/>
+                <dxGrid:TextColumn FieldName="Address" Width="170"/>
+                <dxGrid:DateColumn FieldName="BirthDate" DisplayFormat="d"/>
+                <dxGrid:PickerColumn FieldName="Access" Caption="Access Level" ContentAlignment="Center"/>
+                <dxGrid:SwitchColumn FieldName="OnVacation"/>
+                <dxGrid:ImageColumn FieldName="Photo" Width="100" />-->
+
+                </dxGrid:GridControl.Columns>
+                <dxGrid:GridControl.TotalSummaries>
+                    <dxGrid:GridColumnSummary FieldName="JP" Type="Custom"
+                    DisplayFormat="Total : {0}"/>
+                </dxGrid:GridControl.TotalSummaries>
+            </dxGrid:GridControl>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

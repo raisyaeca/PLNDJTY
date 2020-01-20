@@ -1,0 +1,375 @@
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Users/raisya/Downloads/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Projects/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Users/raisya/Projects/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+D:/KP/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+D:/punya orang/kp/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pagetiga.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PedomanPerilaku.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Whistleblower.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.GCG.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.eca.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.sendy.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.naja.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.vina.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll.config
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.xml
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.xml
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pagetiga.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PedomanPerilaku.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Whistleblower.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.GCG.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.eca.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.sendy.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.naja.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.vina.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.setyo.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.budi.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.haris.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.sutedja.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.joko.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.bambang.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.robert.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.laura.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.anne.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Rekap.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.dilan.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.milea.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.lucky.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.siti.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.fara.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PushNotification.xaml.g.cs
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+D:/KP/KP/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll.config
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Newtonsoft.Json.xml
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.xml
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/PushNotification.Plugin.Abstractions.xml
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Core.xml
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Platform.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pagetiga.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PedomanPerilaku.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Whistleblower.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.GCG.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.eca.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.sendy.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.naja.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.vina.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.setyo.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.budi.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.haris.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.sutedja.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.joko.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.bambang.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.robert.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.laura.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.anne.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Rekap.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.dilan.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.milea.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.lucky.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.siti.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.fara.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PushNotification.xaml.g.cs
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb
+D:/KPFIX/back up updatetampilan/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csprojResolveAssemblyReference.cache
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.csproj.CoreCompileInputs.cache
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.MainPage.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.LoginPage.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SignUpPage.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Home.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.SwitchboardButton.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pagetiga.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PedomanPerilaku.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Whistleblower.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.GCG.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.eca.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.sendy.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.naja.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.DeveloperProfile.vina.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page1.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.Page2.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.setyo.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.budi.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.haris.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.sutedja.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.joko.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.bambang.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.robert.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.laura.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.anne.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Rekap.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.dilan.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.milea.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.lucky.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.siti.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.Pages.fara.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.PushNotification.xaml.g.cs
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.dll
+/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/LoginNavigation/obj/Debug/LoginNavigation.pdb

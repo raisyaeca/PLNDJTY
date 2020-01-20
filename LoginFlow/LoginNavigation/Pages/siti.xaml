@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginNavigation.Pages.siti"
+             Title="Siti">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical" Padding="20" Spacing="20">
+                <BoxView HeightRequest="10"/>
+                <Image HorizontalOptions="Center" WidthRequest="200" Source="woman.png" />
+
+                <Frame BackgroundColor="#84a1a3" HasShadow="true">
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Nama : Siti"/>
+                        <Label Text="Kode Unit : 12"/>
+                        <Label Text="No Agenda : 134"/>
+                        <Label Text="Address : Candisari, Semarang"/>
+                        <Label Text="Jenis Permintaan : Tambah Daya"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

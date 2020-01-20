@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LoginNavigation"
+             x:Class="LoginNavigation.PushNotification">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="TOKEN" Margin="5"/>
+            
+            <Editor x:Name="enToken" HeightRequest="150" Margin="5"/>
+
+            <Label Text="MENSAGEM" Margin="5"/>
+            <Entry x:Name="enMsg"/>
+
+            <Button x:Name="btnSend" Text="Masukkan Pesan" Clicked="btnSend_Clicked"/>
+
+            <Label Text="RESPOSTA" Margin="5"/>
+            <Editor x:Name="enResp" HeightRequest="500" Margin="5"/>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

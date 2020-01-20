@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.GCG"
+             Title="GCG"
+             BackgroundImage="plnfix.png">	
+    <ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#b7dcff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="GOOD CORPORATE GOVERNANCE" HorizontalTextAlignment="Center"/>
+                    <Label Text="Sebagai salah satu BUMN, PT PLN (Persero) memiliki kewajiban untuk menerapkan GCG sebagaimana diamanatkan didalam Peraturan Mentri Negara BUMN Nomor Per-01/MBU/2011 tentang penerapan GCG pada BUMN. Perusahaan menyadari bahwa penerapan GCG saat ini tidak hanya sebagai pemenuhan kewajiban saja, namun telah menjadi kebutuhan dalam menjalankan kegiatan bisnis Perusahaan dalam rangka menjaga pertumbuhan usaha secara berkelanjutan, meningkatkan nilai perusahaan dan sebagai upaya agar Perusahaan mampu bertahan dalam persaingan." HorizontalTextAlignment="Center"/>
+                    <Label Text="Kemampuan yang tinggi dalam menerapkan prinsip-prinsip GCG telah diwujudkan oleh Perusahaan diantaranya dengan dibentuknya fungsi pengelolaan GCG dibawah Sekretaris Perusahaan yang secara khusus menangani dan memantau efektivitas penerapan GCG di Perusahaan. Perusahaan secara berkesinambungan melakukan langkah-langkah perbaikan baik dari sisi soft structure maupun dari sisi infrastructure GCG dalam rangka meningkatkan kualitas penerapan GCG. Perusahaan Telah menerbitkan dokumen-dokumen pendukung dalam penerapan GCG seperti Pedoman GCG, Board Manual, dan Pedoman Perilaku (Code of Conduct). Dewan komisaris juga telah memiliki organ pendukung yaitu Komite-komite Dewan Komisaris yang berperan dalam membantu meningkatkan efektivitas pelaksaaan fungsi pengawasan yang dilakukan oleh Dewan Komisaris." HorizontalTextAlignment="Center"/>
+                   </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+
+
+

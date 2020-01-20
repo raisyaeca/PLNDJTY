@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.sendy"
+             Title="Sendy"
+             BackgroundImage="plnfix.png">
+    <ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#96b5ff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Sendy wijayanto Lahir di jakarta, 30 Maret 1996, anak pertama dari 3 bersaudara. Mendapat pendidikan pertama di SDN Pekayon Jaya 7 Bekasi Tanjung pada umur 6 tahun. Lalu melanjutkan pendidikan di SMPN 99 Jakarta. Kemudian dilanjutkan di SMAN 21 Jakarta dan lulus pada tahun 2014. Kemudian dia melanjutkan studi di perguruan tinggi tepatnya di Universitas Diponegoro jurusan S1 Sistem Komputer pada tahun 2015." HorizontalTextAlignment="Center"/>
+             </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+

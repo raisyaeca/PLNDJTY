@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar;/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/FormsViewGroup/library_project_imports/formsviewgroup.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/DevExpress.Mobile.Core.Android.v17.1/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/DevExpress.Mobile.Grid.Android.v17.1/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/PushNotification.Plugin/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/DevExpress.Mobile.Core.Android.v17.1/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/DevExpress.Mobile.Grid.Android.v17.1/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/PushNotification.Plugin/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/DevExpress.Mobile.Core.Android.v17.1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/DevExpress.Mobile.Grid.Android.v17.1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/PushNotification.Plugin.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/TOSHIBA/back up updatetampilan 2/LoginFlow/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

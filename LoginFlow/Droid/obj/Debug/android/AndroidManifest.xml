@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.loginnavigation" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <permission android:name="com.companyname.loginnavigation.permission.C2D_MESSAGE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <application android:label="LoginNavigation" android:icon="@drawable/icon" android:name="md547b81b1b5b7aa44cb3609fa18d524d20.MainApplication" android:allowBackup="true" android:debuggable="true">
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="PLN DJTY" android:name="md547b81b1b5b7aa44cb3609fa18d524d20.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <receiver android:name="md563bb5d7cd114ceda82ec85fb57ce3637.AppUpdateReceiver">
+      <intent-filter>
+        <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+      </intent-filter>
+    </receiver>
+    <service android:exported="false" android:name="pushnotification.plugin.PushNotificationGcmListener">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.companyname.loginnavigation" />
+      </intent-filter>
+    </service>
+    <service android:exported="false" android:name="md563bb5d7cd114ceda82ec85fb57ce3637.PushNotificationInstanceIDListenerService">
+      <intent-filter>
+        <action android:name="com.google.android.gms.iid.InstanceID" />
+      </intent-filter>
+    </service>
+    <service android:exported="false" android:name="md563bb5d7cd114ceda82ec85fb57ce3637.PushNotificationRegistrationIntentService" />
+    <service android:name="md563bb5d7cd114ceda82ec85fb57ce3637.PushNotificationService" />
+    <receiver android:exported="true" android:permission="com.google.android.c2dm.permission.SEND" android:name="md563bb5d7cd114ceda82ec85fb57ce3637.PushNotificationsReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.companyname.loginnavigation" />
+      </intent-filter>
+    </receiver>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.loginnavigation.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.loginnavigation" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

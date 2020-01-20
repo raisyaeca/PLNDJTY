@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.PedomanPerilaku"
+             Title="PedomanPerilaku"
+             BackgroundImage="plnfix.png">
+ <ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#b7dcff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Pedoman Perilaku" HorizontalTextAlignment="Center"/>
+                    <Label Text="PT PLN(Persero) sebagai Badan Usaha Milik Negara (BUMN) di bidang kelistrikan yang melayani masyarakat di seluruh Nusantara, bertekad untuk memberikan pelayanan jasa ketenagalistikan yang terbaik dan memenuhi standar ketenagalistrikan yang dapat diterima dunia internasional dan mewujudkan hal itu dengan bertumpu pada kapasitas seluruh warganya.
+
+                                 Dalam menjalankan bisnisnya, PLN bertekad bekerja dengan semangat untuk selalu menghasilkan produk dan pelayanan yang terbaik serta memperlakukan pelanggan, mitra usaha, dan pemasok dengan adil tanpa membeda-bedakannya.
+
+                                 Dalam rangka menjaga agar tetap ada konsistensi dalam penyelenggaraan perusahaan yang baik (Good Corporate Governance), melalui dokumen Pedoman Perilaku PT PLN(Persero) ini, manajemen PLN bertekad untuk menumbuh kembangkan kebiasaan dan tata pergaulan profesional yang baik dan sekaligus mencerminkan jati diri PLN yang dapat kita banggakan bersama. Usaha ini juga merupakan perwujudan dari kesungguhan hati warga PLN untuk bekerja dan berusaha selaras dengan falsafah, visi, misi, dan tata nilai perusahaan yang sudah disepakati bersama.
+
+                                 Semua ini akan dijalankan dengan tetap mengacu pada aspirasi untuk menciptakan nilai yang maksimal bagi bangsa dan negara Indonesia.
+
+                                 Manajemen PLN juga bertekad untuk menyelenggarakan perusahaan dengan mengajak seluruh anggota PLN dan semua phak yang peduli dengan kemajuan perusahaan ini, dapat menjaga perusahaan ini agar tetap berkiprah secara bertanggung jawab.
+
+                                 Keterbukaan dan partisipasi ini akan dijalankan dengan prinsip bahwa informasi perusahaan dapat diakses dan diperoleh dengan mudah oleh masyarakat dan semua pihak yang berhak, tanpa mengabaikan prinsip kerahasiaan informasi tersebut. Sebaliknya, manajemen perusahaan juga senantiasa membuka diri bagi semua masukan dan saran dari lingkunan internal dan eksternal perusahaan.
+
+                                 Dalam mengimplementasikan pedoman ini yang terutama akan lebih dijaga adalah semangat dan itikad yang mendasari dokumen ini selain menjalankan apa yang tersurat di dalamnya. Semua ini dilakukan dalam rangka menjaga peningkatan nilai pemegang saham dan kepercayaan publik setara konsisten dan berkelanjutan.
+
+                                 Kami yakin bahwa ini adalah tekad seluruh warga PLN melaksanakan perilaku yang tercantum dalam Pedoman Perilaku PT PLN (Persero) ini sebagai realitas dalam kehidupan kerja kita sehari-hari, dengan menjadikan diri kita sebagai suri teladan di lingkungan kerja masing-masing." HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+            </Frame>
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+
+
+
+
+
+    

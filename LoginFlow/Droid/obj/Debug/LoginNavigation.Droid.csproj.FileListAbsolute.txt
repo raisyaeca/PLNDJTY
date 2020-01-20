@@ -1,0 +1,728 @@
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Downloads/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/R.cs.flag
+/Users/raisya/Downloads/LoginFlow/Droid/obj/Debug/uploadflags.txt
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Projects/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/R.cs.flag
+/Users/raisya/Projects/LoginFlow/Droid/obj/Debug/uploadflags.txt
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/R.cs.flag
+/Users/raisya/Desktop/LoginFlow/Droid/obj/Debug/uploadflags.txt
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/R.cs.flag
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/uploadflags.txt
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.Droid.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+D:/KP/New folder (5)/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/R.cs.flag
+/Users/raisya/Desktop/New folder (5)/LoginFlow/Droid/obj/Debug/uploadflags.txt
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/R.cs.flag
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/Droid/obj/Debug/uploadflags.txt
+C:/Users/NOTEBOOK/Downloads/New folder (5)/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.Android.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.Android.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/page1.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/page2.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/res/drawable/hello.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/R.cs.flag
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/Droid/obj/Debug/uploadflags.txt
+C:/Users/NOTEBOOK/Downloads/KPFIX/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.Android.v17.1.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.Android.v17.1.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.xml
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/page1.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/page2.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/res/drawable/hello.png
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/R.cs.flag
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/uploadflags.txt
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.Droid.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+D:/punya orang/kp/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.xml
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/page1.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/page2.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/hello.png
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/R.cs.flag
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/uploadflags.txt
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/LoginNavigation.Droid.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/Droid/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/NOTEBOOK/Downloads/KPFIX/New folder/updatetampilan/LoginFlow/LoginNavigation/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/com.companyname.loginnavigation-Signed.apk
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.Android.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.Android.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Grid.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/DevExpress.Mobile.Core.v17.1.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/LoginNavigation.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Core.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.dll
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/LoginNavigation.Droid.pdb
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/android/bin/com.companyname.loginnavigation.apk
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/icon.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/plnfix.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/camera.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/shopping.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/tag.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/twitter.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/underc.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/eca.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/naja.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/sendy.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/vina.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/page1.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/page2.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/res/drawable/hello.png
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/R.cs.flag
+/Users/raisya/Desktop/updatetampilan/LoginFlow/Droid/obj/Debug/uploadflags.txt
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll.config
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\com.companyname.loginnavigation.apk
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\com.companyname.loginnavigation-Signed.apk
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Core.Android.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Grid.Android.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Newtonsoft.Json.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.dll.config
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Newtonsoft.Json.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.dll
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.pdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\bin\com.companyname.loginnavigation.apk
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\icon.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\plnfix.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\camera.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\shopping.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\tag.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\twitter.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\underc.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\eca.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\naja.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\sendy.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\vina.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\page1.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\page2.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\hello.png
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\R.cs.flag
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\uploadflags.txt
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\LoginNavigation.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\LoginNavigation.Droid.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\PushNotification.Plugin.Abstractions.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\PushNotification.Plugin.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\KP\KP\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll.config
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\com.companyname.loginnavigation.apk
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\com.companyname.loginnavigation-Signed.apk
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Core.Android.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Grid.Android.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Newtonsoft.Json.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Grid.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\DevExpress.Mobile.Core.v17.1.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.dll.config
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Newtonsoft.Json.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\PushNotification.Plugin.Abstractions.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.csprojResolveAssemblyReference.cache
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.csproj.CoreCompileInputs.cache
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\LoginNavigation.Droid.pdb
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\android\bin\com.companyname.loginnavigation.apk
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\icon.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\plnfix.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\camera.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\shopping.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\tag.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\twitter.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\underc.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\eca.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\naja.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\sendy.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\vina.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\page1.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\page2.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\hello.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\gcg.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\pbaru.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\pedomanperilaku.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\profilepln.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\tdaya.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\whistleblower.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\woman.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\res\drawable\man.png
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\R.cs.flag
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\obj\Debug\uploadflags.txt
+D:\KPFIX\back up updatetampilan\LoginFlow\Droid\bin\Debug\LoginNavigation.Droid.dll
+D:\KPFIX\back up updatetampilan\LoginFlow\LoginNavigation\bin\Debug\LoginNavigation.dll
+bin\Debug\LoginNavigation.dll.mdb
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\LoginNavigation.Droid.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\LoginNavigation.dll.mdb
+obj\Debug\linksrc\PushNotification.Plugin.Abstractions.dll.mdb
+obj\Debug\linksrc\PushNotification.Plugin.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

@@ -1,0 +1,2 @@
+D:\KP\New folder (5)\LoginFlow\LoginNavigation\LoginNavigation.csproj;neutral
+D:\KP\New folder (5)\LoginFlow\UWP\LoginNavigation.UWP.csproj;x86

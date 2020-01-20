@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="LoginNavigation.Whistleblower"
+             Title="Whistleblower"
+             BackgroundImage="plnfix.png">
+             
+	<ContentPage.Content>
+        <ScrollView>
+     <StackLayout Orientation="Vertical" Padding="30" Spacing="40">
+            <BoxView HeightRequest="10"/>
+            <Image HorizontalOptions="Center" WidthRequest="300" />
+
+            <Frame BackgroundColor="#b7dcff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="WHISTLEBLOWER'S SYSTEM" HorizontalTextAlignment="Center"/>
+                    <Label Text="Anda mengetahui tindakan korupsi yang telah atau akan dilakukan oleh seseorang yang anda kenal di lingkungan PT PLN (Persero)?" HorizontalTextAlignment="Center"/>
+                    <Label Text="Untuk anda yang ingin melaporkan indikasi tindak pidana korupsi, tapi merasa sungkan atau takut identitasnya terungkap, kerena kebetulan anda kenal dengan pelakunya, misalnya atasan, teman sekerja, dan lain-lain, anda bisa menggunakan fasilitas ini." HorizontalTextAlignment="Center"/>
+                    <Label Text="Pelapor dapat mengirimkan laporan pelanggaran yang diketahuinya ke alamat email wbpln@pln.co.id atau SMS/Whatsapp ke nomor 08119861901" HorizontalTextAlignment="Center"/>
+                    <Label Text="Bila pelapor internal yang tidak menginginkan identitasnya diketahui, disarakan untuk menggunakan email non korporat agar tidak terlacak oleh pengelola sistem informasi perusahaan. Demikian pula untuk pelapor eksternal" HorizontalTextAlignment="Center"/>
+                    <Label Text="Komunikasi lebih lanjut atas leporan yang disampaikan akan dilakukan melalui email tersebut ke alamt email pengirim laporan" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+            </Frame>
+
+                <Frame BackgroundColor="#b7dcff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="TINDAK LANJUT" HorizontalTextAlignment="Center"/>
+                    <Label Text="Atas penyampaian laporan, Direksi akan menindaklanjuti dengan upaya investigasi untuk mendapatkan kebenaran atas laporan tersebut dan selanjutnya laporan akan dilengkapi dengan bukti-bukti yang diperlukan untuk proses lebih lanjut" HorizontalTextAlignment="Center"/>
+                    <Label Text="Selambat-lambatnya dalam waktu 1 (satu) bulan, laporan yang telah dilengkapi dengan bukti yang cukup dan dapat ditindaklanjuti, oleh Direksi akan diteruskan kepada penegak hukum antara lain kepada Komisi Pemberantasan Korupsi (KPK) untuk diproses lebih lanjut dan mendapatkan hukuman setimpal" HorizontalTextAlignment="Center"/>
+                 </StackLayout>
+            </Frame>
+
+                <Frame BackgroundColor="#b7dcff" HasShadow="true">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="PERLINDUNGAN PELAPOR DAN INSENTIF" HorizontalTextAlignment="Center"/>
+                    <Label Text="Pelapor dijaga kerahasiaan dengan cara menggunakan media komunikasi email uang diluar pengelolaan perusahaan (bukan email pln.co.id)" HorizontalTextAlignment="Center"/>
+                    <Label Text="Pelapor dilindungi secara khusus oleh Direksi" HorizontalTextAlignment="Center"/>
+                    <Label Text="Bagi pelapor internal, Direksi memberikan jaminan perlindungan tidak akan dikenai Pemecatan; yang merugikan dalam file data pribadinya (personal file record). Selain perlindungan di atas, untuk Pelapor yang beritikad baik, perusahaan juga akan menyediakan perlindungan hukum, sejalan dengan yang diatur dalam pasal 43 UU No.15 tahun 2002 jo. UU No. 25 tahun 2003 tentang Tindak Pidana Pencucian Uang dan pasal 13 UU No. 13 tahun 2006 tentang Perlindungan Saksi Korban, dan pasal 5 PP No. 57 tahun 2003 tentang Tata Cara Perlindungan Khusus bagi Pelapor dan Saksi Korban, dan Pasal 5 PP No. 57 tahun 2003 tentang Tata Cara Perlindungan Khusus bagi Pelapor dan Saksi dalam Tindak Pidana Pencucian Uang" HorizontalTextAlignment="Center"/>
+                    <Label Text="Bagi Pelapor yang laporannya benar dan dapat ditindaklanjuti serta bersedia membuka identitasnya kepada Direksi, akan diberikan insentif yang menarik" HorizontalTextAlignment="Center"/>
+                 </StackLayout>
+            </Frame>
+
+                
+    </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>
+
+
+
+
